@@ -10,10 +10,12 @@ const config: Config = {
   theme: {
     extend: {
       colors:{
-        black:'#030712',
-        gray:'#9ca3af',
-        white:'#f8fafc',
-        orange:'#f97316',
+        gray:'#485058',
+        orange:'#de8353',
+        dark:'#485058',
+        grray:'#1d1d1d',
+        bllack:'#101010',
+        grrray:'#a4afbe',
       
       }
 
